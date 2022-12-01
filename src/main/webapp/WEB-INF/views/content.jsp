@@ -10,7 +10,7 @@
 	컨텐츠 페이지입니다!!!<br>
 	<a href="index">index로 이동</a>
 	<hr>
-	dto1 : ${dto1.name } / ${$dto1.age }<br><br>
-	dto2 : ${dto2.name } / ${$dto2.age }<br><br>
+	dto1 : ${dto1.name } / ${dto1.age }<br><br>
+	dto2 : ${dto2.name } / ${dto2.age }<br><br>
 </body>
 </html>
